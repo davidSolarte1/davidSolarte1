@@ -60,29 +60,6 @@
 
 <h2 align="left">📂 Featured Repositories</h2>
 
-###
-
-<h3 align="left">🧠 Aeropuerto (Java)</h3>
-
-###
-
-<p align="left">An academic project focused on managing flights, airplanes, and passengers.<br>Developed in Java, this system applies object-oriented programming principles and data handling logic.</p>
-
-###
-
-<h3 align="left">🌐 UdeNews (Kotlin / Mobile Frontend)</h3>
-
-###
-
-<p align="left">A Kotlin-based mobile application that displays university news connected to a custom-built API.</p>
-
-###
-
-<h3 align="left">⚙️ APIUdeNews (Python / Django)</h3>
-
-###
-
-<p align="left">A RESTful API built with Django to manage the backend for UdeNews (news posts, users, and comments).</p>
 
 ###
 
@@ -107,6 +84,31 @@
 ###
 
 <p align="left">Integration setup between Keycloak and Alfresco, using FreeMarker templates and Docker-based configuration.</p>
+
+###
+
+
+<h3 align="left">🧠 Aeropuerto (Java)</h3>
+
+###
+
+<p align="left">An academic project focused on managing flights, airplanes, and passengers.<br>Developed in Java, this system applies object-oriented programming principles and data handling logic.</p>
+
+###
+
+<h3 align="left">🌐 UdeNews (Kotlin / Mobile Frontend)</h3>
+
+###
+
+<p align="left">A Kotlin-based mobile application that displays university news connected to a custom-built API.</p>
+
+###
+
+<h3 align="left">⚙️ APIUdeNews (Python / Django)</h3>
+
+###
+
+<p align="left">A RESTful API built with Django to manage the backend for UdeNews (news posts, users, and comments).</p>
 
 ###
 
