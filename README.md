@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">💻 **Frontend Web Developer (Junior)**  <br>🎓 **Systems Engineering Graduate**  <br>🌍 From San Juan de Pasto, Colombia</p>
+<p align="left">💻 <b>Frontend Web Developer (Junior)</b>  <br>🎓 <b>Systems Engineering Graduate</b>  <br>🌍 From San Juan de Pasto, Colombia</p>
 
 ###
 
@@ -46,7 +46,7 @@
 
 ###
 
-<p align="left">I am a **Systems Engineering graduate** passionate about **Frontend Web Development**.  <br>💻 Skilled in **HTML, CSS, JavaScript, and React**, with additional experience in **ASP.NET, Django, SQL, and Docker**.  <br>🚀 Motivated to keep learning and contribute to innovative projects while growing as a developer.</p>
+<p align="left">I am a <b>Systems Engineering graduate</b> passionate about <b>Frontend Web Development</b>.  <br>💻 Skilled in <b>HTML, CSS, JavaScript, and React</b>, with additional experience in <b>ASP.NET, Django, SQL, and Docker</b>.  <br>🚀 Motivated to keep learning and contribute to innovative projects while growing as a developer.</p>
 
 ###
 
@@ -54,7 +54,59 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on academic and personal projects to strengthen my **Frontend development** skills.  <br>👯 I’m looking to collaborate on **open-source web projects** or small apps that use **React and JavaScript**.  <br>🤝 I’m looking for help with improving my **React best practices** and modern **UI/UX design**.  <br>🌱 I’m currently learning **React**, **Docker**, and backend basics with **ASP.NET** and **Django**.  <br>💬 Ask me about **HTML, CSS, JavaScript, React, SQL**, and my project experience with **Alfresco & Keycloak**.  <br>⚡ Fun fact: I enjoy learning new tech stacks by building real apps that solve everyday problems.</p>
+<p align="left">🔭 I’m currently working on academic and personal projects to strengthen my <b>Frontend development</b> skills.  <br>👯 I’m looking to collaborate on <b>open-source web projects</b> or small apps that use <b>React and JavaScript</b>.  <br>🤝 I’m looking for help with improving my <b>React best practices</b> and modern <b>UI/UX design</b>.  <br>🌱 I’m currently learning <b>React</b>, <b>Docker</b> and backend basics with <b>ASP.NET</b> and <b>Django</b>.  <br>💬 Ask me about <b>HTML, CSS, JavaScript, React, SQL</b>, and my project experience with <b>Alfresco & Keycloak</b>.  <br>⚡ Fun fact: I enjoy learning new tech stacks by building real apps that solve everyday problems.</p>
+
+###
+
+<h2 align="left">📂 Featured Repositories</h2>
+
+###
+
+<h3 align="left">🧠 Aeropuerto (Java)</h3>
+
+###
+
+<p align="left">An academic project focused on managing flights, airplanes, and passengers.<br>Developed in Java, this system applies object-oriented programming principles and data handling logic.</p>
+
+###
+
+<h3 align="left">🌐 UdeNews (Kotlin / Mobile Frontend)</h3>
+
+###
+
+<p align="left">A Kotlin-based mobile application that displays university news connected to a custom-built API.</p>
+
+###
+
+<h3 align="left">⚙️ APIUdeNews (Python / Django)</h3>
+
+###
+
+<p align="left">A RESTful API built with Django to manage the backend for UdeNews (news posts, users, and comments).</p>
+
+###
+
+<h3 align="left">🛒 TiendaFinal (PHP / SQL)</h3>
+
+###
+
+<p align="left">An e-commerce system that manages products, users, and shopping carts.</p>
+
+###
+
+<h3 align="left">💬 Chat (React / TypeScript)</h3>
+
+###
+
+<p align="left">A web chat app built with React and TypeScript, featuring reusable components and state management.</p>
+
+###
+
+<h3 align="left">🧩 kc-con-alfresco (FreeMarker / System Integration)</h3>
+
+###
+
+<p align="left">Integration setup between Keycloak and Alfresco, using FreeMarker templates and Docker-based configuration.</p>
 
 ###
 
