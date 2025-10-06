@@ -2,7 +2,9 @@
   <a href="https://linkedin.com/in/david-esteban-solarte-eraso-9b7349276" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
-
+  
+  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-esteban-solarte-eraso-9b7349276/)
+  
   [![Gmail Badge](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge)](mailto:dsolarte2809@gmail.com)
   
 </div>
