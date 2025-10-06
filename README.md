@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">💻 <b>Desarrollador Web Frontend (Junior)</b>  <br>🎓 <b>Ingeniero de Sistemas</b>  <br>🌍 Desde San Juan de Pasto, Colombia</p>
+<p align="left">💻 <b>Desarrollador Web Frontend (Junior)</b>  <br>🎓 <b>Ingeniero de Sistemas</b>  <br>🌍 De San Juan de Pasto, Colombia</p>
 
 ###
 
